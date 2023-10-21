@@ -8,7 +8,7 @@ I started my academic journey studying mathematics, but it was when I delved int
 - 💼 I'm currently interning as a Junior Data & AI Consultant, where I'm also working on my master's thesis.
 - 👥 I'm interested in collaborating on Data Science projects, Python scripts, and open-source initiatives.
 - 🏔️ I'm an outdoor enthusiast who loves to explore and meet new people every day.
-- 🧘🏻‍♀️ I'm a yoga addict; for me, a clear mind means clear code!
+- 🧘🏻‍♀️ I'm a yoga addict.
 
 Feel free to explore my projects and get in touch. I'm always excited to connect and collaborate on interesting data-driven projects!
 <!--
